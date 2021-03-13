@@ -2,8 +2,8 @@
 Operating System :- Linux(Ubuntu 20.04)
 
 Compile :- g++ routing.cpp -o routing
-
-Run     :- ./routing TopologyFileName ConnectionFileName RoutingTableFiileName ForwardingTableFileName 		    PathsFileName hop/distanceMetric(0/1) optimistic/pessimisticApproach(0/1)
+               
+Run     :- ./routing TopologyFileName ConnectionFileName RoutingTableFiileName ForwardingTableFileName PathsFileName hop/distanceMetric(0/1)                                    optimisic/pessimisticApproach(0/1)
 
             For hop metric :-   hop/distanceMetric = 0
             For dist metric :-  hop/distanceMetric = 1
