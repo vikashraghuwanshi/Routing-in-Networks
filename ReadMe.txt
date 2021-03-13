@@ -28,7 +28,7 @@ request file (Arpanet for 24 node and Nsfnet for 14 nodes) is given in which the
 between 2 nodes and the required bandwidth is mentioned.
 All the output files format is given below.
 
-#Inputs
+Inputs
 
 The command line will specify the following:
 topology of the network
